@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormulaAirline.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d8fed83938b677ca10b8502ba9664570e28109")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormulaAirline.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormulaAirline.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

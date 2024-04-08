@@ -12,3 +12,4 @@ C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessi
 C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
 C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
 C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.sourcelink.json
