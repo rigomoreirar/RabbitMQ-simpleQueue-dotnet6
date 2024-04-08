@@ -1,0 +1,14 @@
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.exe
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.deps.json
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.dll
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.dll
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\refint\FormulaAirline.TicketProcessing.dll
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+C:\Users\RigobertoMoreira\mainHub\current\rabbitmq\FormulaAirline.TicketProcessing\obj\Debug\net8.0\ref\FormulaAirline.TicketProcessing.dll
