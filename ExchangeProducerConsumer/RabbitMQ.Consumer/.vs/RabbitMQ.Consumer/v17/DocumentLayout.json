@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|c:\\users\\rigobertomoreira\\mainhub\\current\\rabbitmq\\rabbitmq-simplequeue-dotnet6\\exchangeproducerconsumer\\rabbitmq.consumer\\rabbitmq.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|solutionrelative:rabbitmq.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|c:\\users\\rigobertomoreira\\mainhub\\current\\rabbitmq\\rabbitmq-simplequeue-dotnet6\\exchangeproducerconsumer\\rabbitmq.consumer\\rabbitmq.consumer\\fanoutexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|solutionrelative:rabbitmq.consumer\\fanoutexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|c:\\users\\rigobertomoreira\\mainhub\\current\\rabbitmq\\rabbitmq-simplequeue-dotnet6\\exchangeproducerconsumer\\rabbitmq.consumer\\rabbitmq.consumer\\headerexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|solutionrelative:rabbitmq.consumer\\headerexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|c:\\users\\rigobertomoreira\\mainhub\\current\\rabbitmq\\rabbitmq-simplequeue-dotnet6\\exchangeproducerconsumer\\rabbitmq.consumer\\rabbitmq.consumer\\queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|solutionrelative:rabbitmq.consumer\\queueconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|c:\\users\\rigobertomoreira\\mainhub\\current\\rabbitmq\\rabbitmq-simplequeue-dotnet6\\exchangeproducerconsumer\\rabbitmq.consumer\\rabbitmq.consumer\\directexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|solutionrelative:rabbitmq.consumer\\directexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|c:\\users\\rigobertomoreira\\mainhub\\current\\rabbitmq\\rabbitmq-simplequeue-dotnet6\\exchangeproducerconsumer\\rabbitmq.consumer\\rabbitmq.consumer\\topicexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8013C376-886F-4329-A0F6-51A731FA36CF}|RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj|solutionrelative:rabbitmq.consumer\\topicexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FanoutExchangeConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\FanoutExchangeConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Consumer\\FanoutExchangeConsumer.cs",
+              "ToolTip": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\FanoutExchangeConsumer.cs",
+              "RelativeToolTip": "RabbitMQ.Consumer\\FanoutExchangeConsumer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:04:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeaderExchangeConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\HeaderExchangeConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Consumer\\HeaderExchangeConsumer.cs",
+              "ToolTip": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\HeaderExchangeConsumer.cs",
+              "RelativeToolTip": "RabbitMQ.Consumer\\HeaderExchangeConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:52:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopicExchangeConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\TopicExchangeConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Consumer\\TopicExchangeConsumer.cs",
+              "ToolTip": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\TopicExchangeConsumer.cs",
+              "RelativeToolTip": "RabbitMQ.Consumer\\TopicExchangeConsumer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:41:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirectExchangeConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\DirectExchangeConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Consumer\\DirectExchangeConsumer.cs",
+              "ToolTip": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\DirectExchangeConsumer.cs",
+              "RelativeToolTip": "RabbitMQ.Consumer\\DirectExchangeConsumer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:21:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\QueueConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Consumer\\QueueConsumer.cs",
+              "ToolTip": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\QueueConsumer.cs",
+              "RelativeToolTip": "RabbitMQ.Consumer\\QueueConsumer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:25:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQ.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\RigobertoMoreira\\mainHub\\current\\rabbitmq\\RabbitMQ-simpleQueue-dotnet6\\ExchangeProducerConsumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQ.Consumer\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:36:06.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
